@@ -5,7 +5,7 @@ require 'pp'
 pp directors_database
   
 #------------------------------------------
-ef directors_totals(nds)
+def directors_totals(nds)
   director_index = 0
   total = {}
 
