@@ -21,5 +21,5 @@ while row_index < nds.length do
     movie_index += 1
   end
   row_index += 1
-grand_total
 end
+grand_total
